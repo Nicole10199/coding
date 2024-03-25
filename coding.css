@@ -1,0 +1,99 @@
+body{
+  background-color: rgb(74, 204, 117);
+  margin: 0%;
+  padding:0%;
+}
+.form1{
+color: rgb(126, 125, 125);
+}
+.div1{
+background-color: lightgreen;
+Height: 250px;
+width:450px;
+border-radius: 30px;
+top: 80px;
+position: relative;
+left: 200px;
+  padding:30px;
+ display:flex;
+align-items:center;
+justify-content:center;
+
+}
+.A1{
+color: green;
+font-family: "Protest Riot", sans-serif;
+font-weight: 400;
+font-style: normal;
+position: relative;
+bottom: 100px;
+  left: 180px;
+}
+.A2{
+background-color:;
+border: none;
+border-radius: 10px;
+height:25px
+}
+.A3{
+background-color:;
+border: none;
+border-radius: 10px;
+height:25px
+}
+.A4{
+background-color:;
+border: none;
+border-radius: 10px;
+height:25px
+}
+.A5{
+background-color:;
+border: none;
+border-radius: 10px;
+height:25px
+}
+
+.form{
+background-color:;
+border: none;
+border-radius: 10px;
+height:25px
+}
+.A6{
+background-color:;
+border: none;
+border-radius: 10px;
+height:25px
+}
+.B7{
+background-color:blue;
+border: none;
+position: relative;
+ top:10px;
+left: 55px
+}
+.B8{
+background-color:;
+border: none;
+position: relative;
+ top:10px;
+  left: 100px;
+}
+
+#vpn{
+margin-top: 10px;
+border-radius: 10px;
+height: 25px;
+border: none;
+}
+
+#Nicole{
+margin-left: 10px;
+margin-top: 15px;
+}
+
+#hello{
+margin-right: 60px;
+margin-top: 5px;
+}

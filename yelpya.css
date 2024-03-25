@@ -1,0 +1,55 @@
+.body{
+    background-color: blue;
+}
+.svg{
+    height: 100px;
+    width: 100px;
+}
+.s1s{
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    position: relative
+    
+}
+.form1{
+    color: grey;
+}
+.div1{
+  background-color: bisque;
+    height: 250px;
+    width:350px;
+    border-radius: 30px;
+    top: 25%;
+    position: relative;
+    justify-content: center;
+    left: 480px;
+    padding:30px;
+    justify-content: center;
+    filter: opacity(75%);
+}
+.A1{
+    position: relative;
+    bottom: 55px;
+    left: 129px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.he101{
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+    filter: opacity(30%) blur(1px);
+    border: 10px solid;
+    border-radius: 20%;
+
+}
+.he202{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    filter: blur(1px);
+}
+.div3{
+   
+}
